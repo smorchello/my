@@ -11,7 +11,7 @@ return array (
 		
 		// preloading 'log' component
 		'preload' => array (
-				'log',
+				//'log',
 				'booster',
 				'debug' 
 		),
